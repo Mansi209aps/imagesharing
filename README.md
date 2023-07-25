@@ -1,6 +1,6 @@
 # Image Sharing Website
 
-This is a React-based image-sharing website that allows users to upload and share images with others. It provides an easy and intuitive interface for sharing images with friends, family, or the public.
+This is a React-based image-sharing website that allows users to share image from the website to various social media platforms such as Whatsapp, Facebook, and Twitter.
 
 ## Demo
 
