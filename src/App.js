@@ -16,7 +16,7 @@ export default class App extends Component {
     super(props);
     this.state = {
       isModalOpen: false,
-      imageUrl: 'https://source.unsplash.com/1400x500/?burger',
+      imageUrl: 'https://source.unsplash.com/1400x500/?flower',
       shareTitle: 'Title or jo bhi aapko likhna ho',
     };
   }
